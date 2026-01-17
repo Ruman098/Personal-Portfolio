@@ -8,12 +8,12 @@ export const personalInfo = {
   location: "Chattogram 4349, Bangladesh",
   bio: [
     "I'm a final-year Computer Science student at CUET with a deep passion for Artificial Intelligence and Machine Learning. My journey in technology is driven by a curiosity to understand how machines learn and a desire to build solutions that tackle real-world challenges.",
-    "My expertise lies in Transformer Architectures, NLP, Large Language Models (LLM). I have hands-on experience building foundational models from scratch, such as a GPT-2 implementation using PyTorch, Fine-tuning LLM on domain-specific tasks and developing sophisticated RAG-powered systems for specialized domains. Winning the LT-EDI @ LDK 2025 shared task on hate speech detection, and being a finalist in an AI hackathon stand as a testament to my capability in applying research to practical problems.",
+    "My expertise lies in Transformer Architectures, NLP, and Large Language Models (LLM). I have hands-on experience building foundational models from scratch, such as a GPT-2 implementation using PyTorch, Fine-tuning LLM on domain-specific tasks and developing sophisticated RAG-powered systems for specialized domains. Winning the LT-EDI @ LDK 2025 shared task on hate speech detection, and being a finalist in an AI hackathon stand as a testament to my capability in applying research to practical problems.",
     "Beyond development, I am deeply committed to the AI community. As an instructor for the ML wing of the IEEE Computer Society CUET Student Branch, I enjoy mentoring others and sharing knowledge. Through this, I'm consistently learning new things and developing myself."
   ],
   available: true,
-  resumeUrl: "lib\\Md. Nur Siddik Ruman (CV).pdf",
-  profileImage: "lib\\WhatsApp Image 2026-01-18 at 2.40.53 AM.jpeg"
+  resumeUrl: "/resume.pdf",
+  profileImage: "/profile.jpeg"
 };
 
 export const socialLinks = [
@@ -58,7 +58,7 @@ export const skills = [
   {
     category: 'AI & Machine Learning',
     icon: Brain,
-    items: ['Deep Learning', 'NLP', 'LLMs', 'RAG Pipelines', 'AI Agents', 'Transformer Arch.', 'Fine-tuning', 'AI agents']
+    items: ['Deep Learning', 'NLP', 'LLMs', 'RAG Pipelines', 'AI Agents', 'Transformer Arch.', 'Fine-tuning']
   },
   {
     category: 'Languages',
