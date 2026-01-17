@@ -12,8 +12,8 @@ export const personalInfo = {
     "Beyond development, I am deeply committed to the AI community. As an instructor for the ML wing of the IEEE Computer Society CUET Student Branch, I enjoy mentoring others and sharing knowledge. Through this, I'm consistently learning new things and developing myself."
   ],
   available: true,
-  resumeUrl: ".\\lib\\Md. Nur Siddik Ruman (CV).pdf",
-  profileImage: ".\\lib\\WhatsApp Image 2026-01-18 at 2.40.53 AM.jpeg"
+  resumeUrl: "lib\\Md. Nur Siddik Ruman (CV).pdf",
+  profileImage: "lib\\WhatsApp Image 2026-01-18 at 2.40.53 AM.jpeg"
 };
 
 export const socialLinks = [
